@@ -12,7 +12,7 @@ A brainfuck compiler that can make the BF programs run on the Hack machine
 The source file must use .bf as the file extension, and the compiled file will be put in the same directory as the source file. The result file’s name will be original_filename.asm (assembly code) or Main.vm (virtual machine code).
 
 ## Building
-The BF_Compiler is a cross-platform software and was implemented in C++ (ISO-C++11). All the source files should be built into a single target. It had been built successfully with clang++/LLVM8.0 and LLVM C++ standard library with c++11 support.
+The BF_Compiler is a cross-platform software and was implemented in C++ (ISO-C++11). All the source files should be built into a single target. It had been built successfully with clang++/LLVM8.0 and LLVM C++ standard library with c++11 support, and tested in macOS 10.12.
 
 ## Requirements
 The Hack machine is a virtual computer provides by the textbook The Elements of Computing Systems, MIT Press, by Noam Nisan and Shimon Schocken. The compiled codes can only run on CPUEmulator and VMEmulator supplied by the book, and the softwares can be downloaded at [HERE](http://www.nand2tetris.org/software.php).
