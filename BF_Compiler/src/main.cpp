@@ -2,8 +2,8 @@
 //  main.cpp
 //  BF_Compiler
 //
-//  Created by Nemo Tiger on 2016/12/30.
-//  Copyright © 2016年 Nemotiger Home. All rights reserved.
+//  Created by nemotiger on 2017/01/13.
+//  Copyright © 2017 Hsia Yu. All rights reserved.
 //
 
 #include <iostream>
